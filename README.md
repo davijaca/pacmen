@@ -33,7 +33,6 @@ The exercise is on how to create two buttons that would have two functionalities
 * HTML
 * CSS
 * JAVASCRIPT
-* BOOTSTRAP
 
 
 <!-- GETTING STARTED -->
