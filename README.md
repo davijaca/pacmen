@@ -2,10 +2,10 @@
 <br />
 <div align="center">
 
-  <h3 align="center">BRINKS Sales Showcase</h3>
+  <h3 align="center">Pacmen Factory</h3>
 
   <p align="center">
-    Welcome to my Personal Brinks Sales page project!
+    Welcome to my Pacmen Factory Exercise page!
     <br />
     <br />
   </p>
@@ -17,11 +17,13 @@
 ## About
 
 
-This is a single page html sales page I have made for myself to help me showcase to some of my perspective customers the value of the BRINKS Home Security services.
+This is a single page html application on the Pacmen Factory Exercise from the MIT xPro course.
 
-I have styled it similarly to the main BRINKS website using Bootstrap.
+The exercise is on how to create two buttons that would have two functionalities:
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+* The first would generate new Pacmen components on the page, as many as the user so desires, on click
+* The second would give life to these Pacmen and animated them on the page, and accelerate them on each click.
+
 
 
 
